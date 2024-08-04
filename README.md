@@ -16,5 +16,5 @@ My ndk and sdk:
 <p><img src="https://github.com/user-attachments/assets/3513ce62-4636-4f2a-aa44-1d537eac3291"/></p>
 <p>And finally, move the bootstrap downloaded in advance to the nw</p>
 <p>Then you can compile it</p>
-
-
+<h1>Thanks Termux for terminal emulator</h1>
+<a href="https://github.com/termux">.
