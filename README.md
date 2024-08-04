@@ -13,7 +13,7 @@ My ndk and sdk:
 <p><img src="https://github.com/user-attachments/assets/1a2b880b-acc4-467c-803f-3fce9b1169f8"/></p>
 <p>Change cradle.properties as follows</p>
 <p><img src="https://github.com/user-attachments/assets/91c2bbf3-8c0f-44df-813e-05d4d63175c0"/></p>
-<p>And finally, move the bootstrap downloaded in advance to the nw</p>
+<p>And finally, move the bootstrap downloaded in advance to the cpp</p>
 <p><img src="https://github.com/user-attachments/assets/3513ce62-4636-4f2a-aa44-1d537eac3291"/></p>
 <p>Then you can compile it</p>
 <h1>Thanks Termux for terminal emulator</h1>
